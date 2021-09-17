@@ -4,7 +4,7 @@
 
 ### Some stuff I'm working on
 
-An Engineer looking to transition to Cloud Computing. In my free time, I trade the financial markets.
+An Engineer looking to transition to Cloud & Devops. In my free time, I trade the financial markets.
 
 ```markdown
 Always Learning
