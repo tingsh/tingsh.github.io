@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to Gigachad's Blog on Engineering, Technology and Trading
 
-You can use the [editor on GitHub](https://github.com/tingsh/tingsh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Some stuff I'm working on
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+An Engineer looking to transition to Cloud Computing. In my free time, I trade the financial markets.
 
 ```markdown
-Syntax highlighted code block
+Always Learning
 
-# Header 1
-## Header 2
-### Header 3
+# Cloud & Devops
+# Linux & Scripting
+# Dockers & Kubernetes
+# Ansible & Terraform
+# Jenkins & CI/CD
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tingsh/tingsh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+https://tingsh.github.io/
